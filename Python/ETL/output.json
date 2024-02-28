@@ -1,0 +1,905 @@
+{
+    "schemaVersion": "1.0.0",
+    "extractStartDateTime": "2021-04-18T21:30:00.000Z",
+    "MarketsList": [
+        {
+            "Market": {
+                "isoCode": "AE",
+                "storeId": 22222222
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "AED",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "BG",
+                "storeId": 33333333
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "BGN",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "CH",
+                "storeId": 44444444
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "CHF",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "CN",
+                "storeId": 55555555
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "CNY",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "CO",
+                "storeId": 66666666
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "COP",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "CZ",
+                "storeId": 77777777
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "CZK",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "DK",
+                "storeId": 23659875
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "DKK",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "EG",
+                "storeId": 88888888
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "EGP",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "ES",
+                "storeId": 11111111
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "EUR",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "GB",
+                "storeId": 56932569
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "GBP",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "HR",
+                "storeId": 78965369
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "HRK",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "HU",
+                "storeId": 78954879
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "HUF",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "ID",
+                "storeId": 12548963
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "IDR",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "IL",
+                "storeId": 85856985
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "ILS",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "JP",
+                "storeId": 25652565
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "JPY",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 1989.0
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 1525.0
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 1225.0
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 625.0
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "KW",
+                "storeId": 12158879
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "KWD",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "MA",
+                "storeId": 45456986
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "MAD",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "MX",
+                "storeId": 23695325
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "MXN",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "PL",
+                "storeId": 78744545
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "PLN",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "QA",
+                "storeId": 55565656
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "QAR",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "RO",
+                "storeId": 44544744
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "RON",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "RS",
+                "storeId": 33326533
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "RSD",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "RU",
+                "storeId": 66656955
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "RUB",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "SA",
+                "storeId": 44589963
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "SAR",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "SE",
+                "storeId": 10215036
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "SEK",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "TN",
+                "storeId": 11010122
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "TND",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "TR",
+                "storeId": 12020336
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "TRY",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "UA",
+                "storeId": 55569887
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "UAH",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        },
+        {
+            "Market": {
+                "isoCode": "US",
+                "storeId": 33300215
+            },
+            "Interval": {
+                "start": "2015-04-18T21:30:00.000Z",
+                "end": "2016-04-18T21:30:00.000Z"
+            },
+            "AverageTicket": {
+                "currency": "USD",
+                "TiersList": [
+                    {
+                        "tier": 1,
+                        "amount": 19.5
+                    },
+                    {
+                        "tier": 2,
+                        "amount": 15.7
+                    },
+                    {
+                        "tier": 3,
+                        "amount": 12.75
+                    },
+                    {
+                        "tier": 4,
+                        "amount": 6.25
+                    }
+                ]
+            }
+        }
+    ]
+}

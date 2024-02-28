@@ -1,0 +1,122 @@
+{
+	"schemaVersion": "1.0.0",
+	"extractStartDateTime": "2021-04-18T21:30:00.000Z",
+	"MarketsList": [
+		{
+			"Market": {
+				"isoCode": "ES",
+				"storeId": 11111111
+			},
+			"Interval": {
+				"start": "2015-04-18T21:30:00.000Z",
+				"end": "2016-04-18T21:30:00.000Z"
+			},
+			"AverageTicket": {
+				"currency": "EUR",
+				"TiersList": [
+					{
+						"tier": 1,
+						"amount": 19.50
+					},{
+						"tier": 2,
+						"amount": 15.70
+					},{
+						"tier": 3,
+						"amount": 12.75
+					},
+					{
+						"tier": 4,
+						"amount": 6.25
+					}
+				]
+			}
+		},
+		{
+			"Market": {
+				"isoCode": "AE",
+				"storeId": 22222222
+			},
+			"Interval": {
+				"start": "2015-04-18T21:30:00.000Z",
+				"end": "2016-04-18T21:30:00.000Z"
+			},
+			"AverageTicket": {
+				"currency": "AED",
+				"TiersList": [
+					{
+						"tier": 1,
+						"amount": 19.50
+					},{
+						"tier": 2,
+						"amount": 15.70
+					},{
+						"tier": 3,
+						"amount": 12.75
+					},
+					{
+						"tier": 4,
+						"amount": 6.25
+					}
+				]
+			}
+		},
+		{
+			"Market": {
+				"isoCode": "BG",
+				"storeId": 33333333
+			},
+			"Interval": {
+				"start": "2015-04-18T21:30:00.000Z",
+				"end": "2016-04-18T21:30:00.000Z"
+			},
+			"AverageTicket": {
+				"currency": "BGN",
+				"TiersList": [
+					{
+						"tier": 1,
+						"amount": 19.50
+					},{
+						"tier": 2,
+						"amount": 15.70
+					},{
+						"tier": 3,
+						"amount": 12.75
+					},
+					{
+						"tier": 4,
+						"amount": 6.25
+					}
+				]
+			}
+		},
+		{
+			"Market": {
+				"isoCode": "CH",
+				"storeId": 44444444
+			},
+			"Interval": {
+				"start": "2015-04-18T21:30:00.000Z",
+				"end": "2016-04-18T21:30:00.000Z"
+			},
+			"AverageTicket": {
+				"currency": "CHF",
+				"TiersList": [
+					{
+						"tier": 1,
+						"amount": 19.50
+					},{
+						"tier": 2,
+						"amount": 15.70
+					},{
+						"tier": 3,
+						"amount": 12.75
+					},
+					{
+						"tier": 4,
+						"amount": 6.25
+					}
+				]
+			}
+		}
+	]
+}
